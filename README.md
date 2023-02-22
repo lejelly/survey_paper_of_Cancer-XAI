@@ -2,10 +2,11 @@
 
 #0. 論文情報・リンク
  
-論文リンク：
-公開日時：
-実装コード：
-Publication : 
+論文リンク ： \\
+実装コード ： \\
+公開日時(arXiv) ： 
+Conference name ：
+Publication ：
  
 #1. どんなもの？
  
